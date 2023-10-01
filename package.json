@@ -1,0 +1,16 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "- Ritchel \r - Etchorre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitzRey/Comp3104-DevOps.git"
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "101358231, Ritchel Etchorre",
+  "license": "ISC"
+}
